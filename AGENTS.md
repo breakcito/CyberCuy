@@ -36,3 +36,4 @@ Cada capítulo tiene cinco ítems. Estos cinco ítems que ven acá son del capí
 
 - Aqui se encuentra el informe actual \informe.pdf o \informe.docx
 - Recuerda que es un informe empresarial asi que es recomedable utilizar un enfoque de BPM. Puedes guiarte de este informe acerca de como redactar la informacion a nivel tactico/estrategico y demas detalles \_ejemplo_bpm.pdf 
+- Cada que te pida un avance, colocalo en este archivo \avance.md en formato RAW con la finalidad de facilitarme el traspaso de la informacion al documento original que esta en google docs.
