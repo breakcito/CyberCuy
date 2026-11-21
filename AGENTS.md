@@ -32,4 +32,7 @@ Cada capítulo tiene cinco ítems. Estos cinco ítems que ven acá son del capí
 
 ¿Quién es Andina Logística? Vuelvo a repetir, hay otras empresas parecidas a Andina que ustedes pueden leer y lo pueden alinear. Como se dijo antes, se eligio a la empresa local Helcorp.
 
-Aqui se encuentra el informe actual \informe.pdf o \informe.docx
+----------------------------------
+
+- Aqui se encuentra el informe actual \informe.pdf o \informe.docx
+- Recuerda que es un informe empresarial asi que es recomedable utilizar un enfoque de BPM. Puedes guiarte de este informe acerca de como redactar la informacion a nivel tactico/estrategico y demas detalles \_ejemplo_bpm.pdf 
