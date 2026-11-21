@@ -1,0 +1,3 @@
+- informe
+- PPT - máximo 8 a 12 diapositivas
+- una carpeta que contenga todos sus trabajos que han hecho en cada taller como evidencia de trabajo para que hagan el informe.
