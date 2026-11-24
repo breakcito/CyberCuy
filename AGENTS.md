@@ -1,6 +1,6 @@
 Este proyecto debe dar como resultado un informe estratégico de ciberseguridad. Este informe debe ser elaborado en un lenguaje empresarial, en un lenguaje de negocio. También se le llama lenguaje de alto nivel. No van detalles técnicos como IPs, comandos, etc, todo eso puede ir pero en los anexos.
 
-Anexo A, las evidencias técnicas; Anexo B, evidencias técnicas del examen de la T1 (docs\_t1.pdf) y T2 (este es el examen "Root Me" docs\_t2.pdf y este es el feedback docs\_t2_feedback.pdf); Anexo C, las evidencias técnicas de los trabajos practicos "Root Me" ("Root Me" docs\_practica_rootme.pdf) y de "Source" ("Root Me" docs\_practica_source.pdf). Interesa que sean las evidencias de hallazgos de "Root Me" y de "Source".
+Anexo A, las evidencias técnicas; Anexo B, evidencias técnicas del examen de la T1 (\_t1.pdf) y T2 (este es el examen "Root Me" \_t2.pdf y este es el feedback \_t2_feedback.pdf); Anexo C, las evidencias técnicas de los trabajos practicos "Root Me" ("Root Me" \_practica_rootme.pdf) y de "Source" ("Root Me" \_practica_source.pdf). Interesa que sean las evidencias de hallazgos de "Root Me" y de "Source".
 
 Entonces, el Anexo D, matrices consolidadas de activos, hallazgos, riesgos y controles. Ya saben qué significa un hallazgo, ¿no? Esta fue la clave para que hagan bien la T3. La evidencia que tuvieron de las máquinas que fueron ustedes a utilizar: "Root Me" y "Source".
 
@@ -10,7 +10,7 @@ Entonces, tiene que haber existido un lenguaje de redacción correcto. Evitar mu
 
 Entonces, aquí en los anexos es donde se coloca la parte más tecnológica. Y la parte también de presupuestos en mayor detalle van en los anexos.
 
-Esto de acá "Root Me" docs\_guia_parte_1.pdf "Root Me" docs\_guia_parte_2.pdf es una guía solamente, no es el documento, es una guía. Ustedes van a elaborar un archivo de Word con toda su carátula, con su índice, índice de los temas, con su índice de la parte de figuras, con su índice de tablas, todo lo correcto, pero el informe es empresarial.
+Esto de acá "Root Me" \_guia_parte_1.pdf "Root Me" \_guia_parte_2.pdf es una guía solamente, no es el documento, es una guía. Ustedes van a elaborar un archivo de Word con toda su carátula, con su índice, índice de los temas, con su índice de la parte de figuras, con su índice de tablas, todo lo correcto, pero el informe es empresarial.
 
 No necesito un informe como tesis, nada de antecedentes internacionales o antecedentes nacionales o antecedentes locales; eso no interesa. Tampoco interesa que en las referencias coloquen enlaces de artículos científicos o tesis, nada de eso, olvídense de todo eso. Solamente necesito información de casos de éxito o de empresas de ciberseguridad que a ustedes les ha ayudado para hacer este informe
 
@@ -24,7 +24,7 @@ Ahora, ustedes deben conocer Andina Logística leyendo información de Andina. S
 
 Ahora, en base a la introducción, viene la parte de las ISO 27001, la ISO 27002, la 27005, el NIST, OWASP, MITRE ATT&CK. Este conocimiento también está plasmado en el informe, pero con un lenguaje de alto nivel.
 
-El informe tiene tres capítulos que son netamente del curso y un capítulo que es alinearnos a una ODS (eso está en otro archivo docs\_guia_parte_2.pdf). El curso dice que debemos alinearnos a la ODS 13 de "Acción por el clima" aunque se sugiere la 9. Sí se desea alinearse a otra ODS diferente a la 13 no hay problema, se puede hacer, pero debe estar alineado. Este último capítulo solo tiene dos ítems.
+El informe tiene tres capítulos que son netamente del curso y un capítulo que es alinearnos a una ODS (eso está en otro archivo \_guia_parte_2.pdf). El curso dice que debemos alinearnos a la ODS 13 de "Acción por el clima" aunque se sugiere la 9. Sí se desea alinearse a otra ODS diferente a la 13 no hay problema, se puede hacer, pero debe estar alineado. Este último capítulo solo tiene dos ítems.
 
 Cada capítulo tiene un propósito, y cada ítem tiene qué deben desarrollar y qué herramientas o matrices sugeridas pueden hacer. Ojo, son matrices sugeridas. Ustedes pueden usar otras matrices.
 
@@ -35,7 +35,7 @@ Cada capítulo tiene cinco ítems. Estos cinco ítems que ven acá son del capí
 ----------------------------------
 
 - Aqui se encuentra el informe actual \informe.pdf o \informe.docx
-- Recuerda que es un informe empresarial asi que es recomedable utilizar un enfoque de BPM. Puedes guiarte de este informe acerca de como redactar la informacion a nivel tactico/estrategico y demas detalles docs\_ejemplo_bpm.pdf 
+- Recuerda que es un informe empresarial asi que es recomedable utilizar un enfoque de BPM. Puedes guiarte de este informe acerca de como redactar la informacion a nivel tactico/estrategico y demas detalles \_ejemplo_bpm.pdf 
 - Cada que te pida un avance, colocalo en este archivo \avance.md en formato RAW con la finalidad de facilitarme el traspaso de la informacion al documento original que esta en google docs.
 - Esto es lo que debemos subir a la plataforma de la universidad:
     - Informe
