@@ -109,3 +109,11 @@ Cada capítulo tiene cinco ítems. Estos cinco ítems que ven acá son del capí
 
 6. Paul (arma sus slides al terminar Cap. IV, Conclusiones y Recomendaciones):
     - Contribución del plan al ODS 9 (metas 9.1 y 9.5), conclusiones generales y recomendaciones inmediatas para Gerencia General (Capítulo IV + Cierre)
+
+
+# NOTAS/OTROS DATOS: 
+- Link del informe: https://docs.google.com/document/d/1Ucin_JPfslMz1ziY5oIatjpVVgAP9In1/edit
+- Link del repo con toda la info recopilada: https://github.com/breakcito/CyberCuy
+- Link de Canva para los slides: https://www.canva.com/design/DAHby94cGuU/MKtB9gquInp0ChxQIgTBBw/edit
+- Cada uno coloca/hace las tablas/figuras/anexos según aplique.
+- Los códigos A-xx, E-xx, H-xx, B-xx, R-xx, I-xx se refieren a los identificadores de trazabilidad que pide la guía (pág. 12 de _guia_parte_1.pdf) para conectar todo el informe desde el activo hasta la solución, sin perder el hilo entre capítulos y anexos
